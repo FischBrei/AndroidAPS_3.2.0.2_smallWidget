@@ -54,7 +54,7 @@
             android:layout_weight="1"
             android:gravity="center"
             android:text="00.0"
-            android:textSize="42sp"
+            android:textSize="46sp"
             android:textStyle="normal"
             tools:ignore="HardcodedText" />
 
@@ -225,7 +225,7 @@
                 android:paddingBottom="3dp"
                 android:text="n/a"
                 android:textColor="@color/white"
-                android:textSize="12sp"
+                android:textSize="16sp"
                 android:textStyle="normal"
                 tools:ignore="HardcodedText" />
 
@@ -260,7 +260,7 @@
                 android:paddingBottom="3dp"
                 android:text="n/a"
                 android:textColor="@color/white"
-                android:textSize="12sp"
+                android:textSize="16sp"
                 android:textStyle="normal"
                 tools:ignore="HardcodedText" />
 
@@ -294,7 +294,7 @@
                 android:paddingBottom="3dp"
                 android:text="n/a"
                 android:textColor="@color/white"
-                android:textSize="12sp"
+                android:textSize="16sp"
                 android:textStyle="normal"
                 tools:ignore="HardcodedText" />
 
@@ -327,7 +327,7 @@
                 android:paddingBottom="3dp"
                 android:text="n/a"
                 android:textColor="@color/white"
-                android:textSize="12sp"
+                android:textSize="16sp"
                 android:textStyle="normal"
                 tools:ignore="HardcodedText" />
 
@@ -362,7 +362,7 @@
                 android:paddingBottom="3dp"
                 android:text="n/a"
                 android:textColor="@color/white"
-                android:textSize="12sp"
+                android:textSize="16sp"
                 android:textStyle="normal"
                 tools:ignore="HardcodedText" />
 
